@@ -1,1 +1,1 @@
-![Welcome](./Welcome.png)
+![Welcome](/profile/Welcome.png)
